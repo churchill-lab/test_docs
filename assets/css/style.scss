@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 
 h1 {color:'red'};
+
+.page_header {
+    color: black;
+    text-align: right;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
